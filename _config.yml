@@ -1,6 +1,6 @@
 # Site settings
 title: 法厄异 Blog
-SEOTitle: 法厄异的博客 | 法厄异 Blog
+SEOTitle: 法厄异 | 法厄异 Blog
 header-img: img/20240721233348.jpg
 email: KE_DU_GE@gmail.com
 description: "这里是 @法厄异 的个人博客，与你一起发现更大的世界"
@@ -15,7 +15,7 @@ future: true
 RSS: false
 weibo_username: huxpro
 zhihu_username: huxpro
-github_username: huxpro
+github_username: wanyujian2024
 twitter_username: huxpro
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
@@ -74,7 +74,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
+sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ FEY"
 sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
