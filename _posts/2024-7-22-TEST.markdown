@@ -1,0 +1,49 @@
+---
+layout : post
+title : "C++学习笔记"
+author : "法厄异"
+header-style：text
+catalog : true
+tags:
+     -web
+     -JavaScript
+---
+# 课前预习
+
+1.课件先预习（全部），至少看3章  http://vm.yueqian.com.cn:8886   C++（班级GZ2355）
+
+2.安装环境（vscode + ubuntu + g++）（qtcreator  https://download.qt.io/archive/qt/5.14/5.14.2/安装断网再安装，必须选MinGW7.3.0 64bit 其他的可以自行选择）
+
+3.安装VS2022 https://visualstudio.microsoft.com/zh-hans/vs/ （社区个人免费版本）下载是安装器 再安装的时候，选择C++桌面开发
+
+日期：2024-3-4  内容：c++环境搭建
+
+# tip:
+
+使用库的时候，临时加环境变量的方法：
+
+```c
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$(pwd)
+```
+
+编译库的命令(范例)：
+
+```c
+gcc  -fPIC  -shared  -o   libadd.so  add.c
+```
+
+
+
+# 环境搭建
+
+C++工作岗位：信息安全（C++高级开发工程师），网络安全防火墙，后台开发工程师（服务器）
+
+C++QT开发工程师（嵌入式人机交互， 桌面应用，protues，wsp）
+
+C++游戏服务器
+
+c++开发环境：
+
+1. QtCreator  https://download.qt.io/archive/qt/5.14/5.14.2/
+2. vs2022   https://visualstudio.microsoft.com/zh-hans/vs/ （社区个人免费版本）
+3. vscode+ubuntu  https://code.visualstudio.com/
