@@ -48,3 +48,6 @@ c++开发环境：
 1. QtCreator  https://download.qt.io/archive/qt/5.14/5.14.2/
 2. vs2022   https://visualstudio.microsoft.com/zh-hans/vs/ （社区个人免费版本）
 3. vscode+ubuntu  https://code.visualstudio.com/
+
+# GBD调试学习连接
+https://blog.csdn.net/weixin_45031801/article/details/134399664
