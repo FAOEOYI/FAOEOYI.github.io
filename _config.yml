@@ -5,7 +5,7 @@ header-img: img/20240721233348.jpg
 email: KE_DU_GE@gmail.com
 description: "这里是 @法厄异 的个人博客，与你一起发现更大的世界"
 keyword: "FEY 法厄异 github新手"
-url: "https://wanyujian2024.github.io/" # your host, for absolute URL
+url: "https://faoeoyi.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -15,7 +15,7 @@ future: true
 RSS: false
 weibo_username: 法厄异
 zhihu_username: 法厄异
-github_username: wanyujian2024
+github_username: FAOEOYI
 twitter_username: 法厄异
 #facebook_username:  法厄异
 #linkedin_username:  firstname-lastname-idxxxx
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: 法厄异
 
 # Netease settings
 netease_comment: false
@@ -70,7 +70,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: https://faoeoyi.github.io
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
